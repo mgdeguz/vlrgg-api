@@ -1,9 +1,5 @@
 import axios from "axios";
 import * as cheerio from "cheerio";
-import { time } from "console";
-
-const url =
-  "https://www.vlr.gg/167364/zeta-division-vs-leviat-n-champions-tour-2023-lock-in-s-o-paulo-omega-ro16";
 
 const teamsInfo = {
   teams: [],
